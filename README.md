@@ -129,5 +129,18 @@ The project was built in clear phases, using AI tools as a support system:
 
 AI tools were used only to speed up development and improve correctness. This approach helped build the system faster, cleaner, and more reliable, while maintaining full understanding and control over the entire application.
 
+## Results 
+## Dashboard
+<img width="2559" height="1140" alt="Screenshot 2025-12-16 143149" src="https://github.com/user-attachments/assets/b425ce0c-b57b-4220-91c9-bca5884d4298" />
+
+## Analytics
+<img width="2533" height="971" alt="Screenshot 2025-12-16 143202" src="https://github.com/user-attachments/assets/e81f8c9e-394d-4212-925d-dc8be333a594" />
+<img width="2559" height="746" alt="Screenshot 2025-12-16 143214" src="https://github.com/user-attachments/assets/d77ffad1-7731-4856-bfae-d8034b86bdbd" />
+<img width="2559" height="732" alt="Screenshot 2025-12-16 143225" src="https://github.com/user-attachments/assets/460117c1-0f76-44e2-8208-5f79d0ac8d4c" />
+<img width="2558" height="1003" alt="Screenshot 2025-12-16 143242" src="https://github.com/user-attachments/assets/0d09923f-8a39-4cb1-966b-76bfc0f17173" />
+
+# Settings
+<img width="2559" height="1326" alt="Screenshot 2025-12-16 143251" src="https://github.com/user-attachments/assets/99e9ed7f-5f07-4275-b145-b4278dda83b1" />
+
 ## Conclusion
 This project represents a solid, production-grade foundation for a statistical arbitrage system. By prioritizing numerical stability, clean architecture, and type safety, it delivers a reliable tool for monitoring and analyzing live market inefficiencies. The modular design ensures it is readily extensible for complex production trading environments.
