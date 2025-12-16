@@ -156,7 +156,8 @@ AI tools were used only to speed up development and improve correctness. This ap
 <img width="2139" height="839" alt="image" src="https://github.com/user-attachments/assets/3ea74d6e-089d-4c22-9aa8-ce98934fbccc" />
 
 <img width="2559" height="746" alt="Screenshot 2025-12-16 143214" src="https://github.com/user-attachments/assets/d77ffad1-7731-4856-bfae-d8034b86bdbd" />
-<img width="2559" height="732" alt="Screenshot 2025-12-16 143225" src="https://github.com/user-attachments/assets/460117c1-0f76-44e2-8208-5f79d0ac8d4c" />
+<img width="2402" height="1051" alt="image" src="https://github.com/user-attachments/assets/f91879d9-96b0-4c61-b01e-9ca940835fe1" />
+
 <img width="2558" height="1003" alt="Screenshot 2025-12-16 143242" src="https://github.com/user-attachments/assets/0d09923f-8a39-4cb1-966b-76bfc0f17173" />
 
 # Settings
