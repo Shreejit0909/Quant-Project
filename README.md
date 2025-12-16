@@ -14,7 +14,10 @@ The system follows a modular, event-driven architecture optimized for low latenc
 *   **API Layer**: FastAPI server exposing standardized REST endpoints.
 *   **Frontend**: React-based dashboard for visualization and configuration.
 
-![Architecture Diagram](assets/architecture_diagram.png)
+![Architecture Diagram]
+
+<img width="2655" height="887" alt="Quant analytics Architechture Diagram" src="https://github.com/user-attachments/assets/15baed38-9074-46d5-b5e7-e5cdc91bcf8e" />
+
 
 ## Data Ingestion
 The system connects directly to the **Binance Futures WebSocket** stream to subscribe to real-time distinct trade events:
