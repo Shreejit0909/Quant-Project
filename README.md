@@ -74,6 +74,24 @@ Traders can adjust risk parameters on the fly without restarting the kernel:
 *   **Z-Score Entry/Exit Thresholds**: Tweak sensitivity to volatility.
 *   **Minimum Correlation**: Adjust regime filter stringency.
 *   **Persistence**: Settings are stored in server memory and apply immediately to the next tick processed by the analytics engine.
+*   
+### Correlation Regime Indicator (Trader Safety Feature)
+
+To help traders quickly judge whether a pair-trading strategy is reliable, the dashboard includes a **Correlation Regime Indicator**.
+
+Instead of showing only raw correlation numbers, the system classifies the market into simple regimes:
+
+- **Strong & Stable** – Correlation is above the configured threshold, pair trades are more reliable.
+- **Weakening** – Correlation is close to the threshold, caution is advised.
+- **Unstable / Avoid Trades** – Correlation has fallen below the threshold, statistical assumptions may break.
+- **Warming Up** – Not enough data points collected yet.
+
+A **trend arrow (↑ / → / ↓)** based on recent correlation values shows whether the relationship between assets is improving or deteriorating.
+
+This feature is designed from a trader’s perspective to answer a practical question:
+**“Should I trust this pair trade right now?”**
+
+The indicator uses existing live analytics data and does not add any extra risk to the core system.
 
 ## Design Decisions & Trade-offs
 *   **In-Memory Architecture**: Chosen over a Time-Series Database (e.g., InfluxDB/KDB+) to strictly meet the assignment timeline and minimize deployment complexity while offering nanosecond-level access speeds.
