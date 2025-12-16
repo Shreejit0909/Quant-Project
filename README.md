@@ -131,7 +131,8 @@ AI tools were used only to speed up development and improve correctness. This ap
 
 ## Results 
 ## Dashboard
-<img width="2559" height="1140" alt="Screenshot 2025-12-16 143149" src="https://github.com/user-attachments/assets/b425ce0c-b57b-4220-91c9-bca5884d4298" />
+<img width="2538" height="1040" alt="image" src="https://github.com/user-attachments/assets/e72922e4-b6b6-4867-855e-36b8cc55af8d" />
+
 
 ## Analytics
 <img width="2139" height="839" alt="image" src="https://github.com/user-attachments/assets/3ea74d6e-089d-4c22-9aa8-ce98934fbccc" />
